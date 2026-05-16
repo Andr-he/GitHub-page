@@ -33,4 +33,4 @@ Projetos acadêmicos com foco em banco de dados, incluindo DER (Diagrama de Enti
 ### Para rodar o portfólio:
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone [https://github.com/Andr-he/GitHub-page.git](https://github.com/Andr-he/GitHub-page.git)
