@@ -9,7 +9,6 @@ Este repositório é composto tanto pelo código-fonte do meu site de portfólio
 ### 🌐 Portfólio Web 
 Um site estático e responsivo criado para apresentar meus projetos.
 * **Páginas principais:** `index.html`, `python.html`, `academia.html`, `loja.html`.
-* **Estilização:** Design moderno e modo de visualização (Lista/Grade) gerenciado via `style.css` e JavaScript.
 
 ### 🐍 Projetos em Python
 Uma coleção de scripts e jogos desenvolvidos para treinar lógica de programação.
